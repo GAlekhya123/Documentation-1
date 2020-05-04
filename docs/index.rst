@@ -7,3 +7,7 @@ Front End with ReactJs
 
 Core Components of React Js
 *********
+
++-----+-----+-----+
+|     |     |     |
++-----+-----+-----+

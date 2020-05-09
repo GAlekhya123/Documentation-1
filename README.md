@@ -11,7 +11,7 @@ ____
 
 Download bootstrap 4 by clicking this [link](https://getbootstrap.com/)
 
-```javascript
-var n="String";
-prompt("enter input");
+```python
+n="String"
+print("Hello everyone")
 ```

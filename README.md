@@ -15,3 +15,5 @@ Download bootstrap 4 by clicking this [link](https://getbootstrap.com/)
 n="String"
 print("Hello everyone")
 ```
+
+<img src="js.jpg" alt="Javascript image"/>

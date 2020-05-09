@@ -17,3 +17,8 @@ print("Hello everyone")
 ```
 
 <img src="js.jpg" alt="Javascript image"/>
+
+## Tables
+____
+**Name** | **Email**
+Jack | jack@gmail.com

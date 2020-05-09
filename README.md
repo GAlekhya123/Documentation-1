@@ -11,4 +11,7 @@ ____
 
 Download bootstrap 4 by clicking this [link](https://getbootstrap.com/)
 
-<font color="green"> Green colored text. </font>
+```javascript
+var n="String";
+prompt("enter input");
+```

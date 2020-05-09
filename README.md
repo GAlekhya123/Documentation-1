@@ -10,3 +10,4 @@
 ____
 
 Download bootstrap 4 by clicking this [link](https://getbootstrap.com/)
+<span style="color: green"> Green colored text. </span>

@@ -26,10 +26,6 @@ Jack | jack@gmail.com
 mark | mark@gmail.com
 
 
-
-<span style="color:red"> Hi </span>
-
-
 ## Table using HTML
 ____
 

@@ -47,5 +47,4 @@ ____
 </tr>
 </table>
 
-
-![](./pic/js.jpg =250x)
+<img src="js.jpg" alt="Javascript image" width="250px"/>
